@@ -1,0 +1,18 @@
+name: p01ml_venv
+dependencies:
+  - python==3.7
+  - pandas==0.23.4
+  - numpy==1.15.4
+  - matplotlib==3.0.2
+  - tensorflow==2.5.0
+  - Keras==2.4.3
+  - opencv==3.4.2
+  - seaborn==0.9.0
+  - scikit-learn==0.23.2
+  - mkl-service==1.1.2
+  - ipykernel==5.1.0
+  - pip
+  - jupyter
+  - pip:
+    - piexif==1.1.2
+    - scikitplot==0.3.7
